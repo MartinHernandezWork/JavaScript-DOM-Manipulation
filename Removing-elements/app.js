@@ -8,4 +8,4 @@ const elementTwo = document.getElementById("br");
 
 /* para remover un elemento utilizamos .remove() */
 
-element.remove();
+elementTwo.remove();

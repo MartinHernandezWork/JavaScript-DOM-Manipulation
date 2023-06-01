@@ -40,3 +40,5 @@ de la siguiente manera: */
 const strong = document.createElement('strong')
 strong.innerText = "Hello world 2"
 div.append(strong)
+
+div.remove()
